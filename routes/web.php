@@ -16,13 +16,13 @@ Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+
+    Route::post('/create-post', [PostController::class, 'createPost']);
+    Route::get('/edit-post/{post}', [PostController::class, 'showEditScreen']);
+    Route::put('/edit-post/{post}', [PostController::class, 'updatePost']);
+    Route::delete('/delete-post/{post}', [PostController::class, 'deletePost']);
 });
 
-Route::middleware('auth:admin')->group(function () {
-    Route::get('/admin/profile', [AdminProfileController::class, 'edit'])->name('admin.profile.edit');
-    Route::patch('/admin/profile', [AdminProfileController::class, 'update'])->name('admin.profile.update');
-    Route::delete('admin/profile', [AdminProfileController::class, 'destroy'])->name('admin.profile.destroy');
-});
 
 require __DIR__.'/auth.php';
 
