@@ -3,11 +3,9 @@
     <div class="container px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5 justify-content-center">
             <div class="col-lg-8">
-                <h2 class="text-white mb-4">In death we are rebuilt</h2>
+                <h2 class="text-white mb-4">Creating worlds</h2>
                 <p class="text-white-50">
-                    Grayscale is a free Bootstrap theme created by Start Bootstrap. It can be yours right now, simply download the template on
-                    <a href="https://startbootstrap.com/theme/grayscale/">the preview page.</a>
-                    The theme is open source, and you can use it for any purpose, personal or commercial.
+                    This site is dedicated to my love of table top RPGs, web developement, and music. The illustrations are of my own design and tell the story of creating worlds and envisioning possibilities. It is a collaborative space to share ideas and expand imagination. Welcome to <i>ThePursuitofMost</i>.
                 </p>
             </div>
         </div>

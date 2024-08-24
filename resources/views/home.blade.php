@@ -25,6 +25,7 @@
     @include('layouts.about')
     <!-- Projects-->
     @include('layouts.projects')
+    
     <!-- Signup & contact-->
     @include('layouts.contact')
     <!-- Footer-->
