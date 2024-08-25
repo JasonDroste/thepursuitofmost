@@ -15,7 +15,7 @@
                 <form class="form-signup" id="contactForm" data-sb-form-api-token="API_TOKEN">
                     <!-- Email address input-->
                     <div class="row input-group-newsletter">
-                        <div class="col"><input class="form-control" id="emailAddress" type="email" placeholder="Enter email address..." aria-label="Enter email address..." data-sb-validations="required,email" /></div>
+                        <div class="col"><input class="form-control" id="emailAddress" type="email" placeholder="Coming soon..." aria-label="Enter email address..." data-sb-validations="required,email" /></div>
                         <div class="col-auto"><button class="btn btn-primary disabled" id="submitButton" type="submit">Notify Me</button></div>
                     </div>
                     <div class="invalid-feedback mt-2" data-sb-feedback="emailAddress:required">An email is required.</div>
@@ -29,7 +29,7 @@
                             <div class="fw-bolder">Form submission successful!</div>
                             To activate this form, sign up at
                             <br />
-                            <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
+                            <!--<a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>-->
                         </div>
                     </div>
                     <!-- Submit error message-->
@@ -64,7 +64,7 @@
                 <div class="card py-4 h-100">
                     <div class="card-body text-center">
                         <i class="fas fa-microchip text-primary mb-2"></i>
-                        <h4 class="text-uppercase m-0">Shadowrun 4th Edition</h4>
+                        <h4 class="text-uppercase m-0">Retrospective: Shadowrun 4th Edition</h4>
                         <hr class="my-4 mx-auto" />
                         <div class="small text-black-50">The year is 2072. Magic has returned and creatures of myth and legend walk among us as megacorps bleed the world dry. You're a shadowrunner a deniable asset...<a href="#!">Read More</a></div>
                     </div>
@@ -74,7 +74,7 @@
                 <div class="card py-4 h-100">
                     <div class="card-body text-center">
                         <i class="fas fa-book text-primary mb-2"></i>
-                        <h4 class="text-uppercase m-0">How to convert Darksun to 5E</h4>
+                        <h4 class="text-uppercase m-0">How to: Convert Darksun to 5E</h4>
                         <hr class="my-4 mx-auto" />
                         <div class="small text-black-50">Clerics beneath the dark sun pledge themselves to the very powers that dwell on the elemental planes. Like the Athasian deserts, the elemental powers...<a href="#!">Read More</a></div>
                     </div>
