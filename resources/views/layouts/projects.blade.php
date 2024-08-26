@@ -9,10 +9,15 @@
                     <h4>Music</h4>
                     <p class="text-black-50 mb-0">Album reviews, Equipment reviews (any and all things concerning bass). Music makes the world go around and this is my contribution to the rotation.</p><p>Band: <a href="https://marcato.band/">Marcato</a></p>Social: <p><a href="https://www.facebook.com/MarcatoDSM/">Facebook</a>, <a href="https://open.spotify.com/artist/32RzzOfpAmb6se0QIUzITe"> Spotify</a>.</p>
                     <br>
-                    <!--<h4>Web Design & Development</h4>
+                    <h4>Table Top RPGs</h4>
                     <p class="text-black-50 mb-0">
-                        Building Software and Web applications is what I do. Learning new techniques and technologies to share is my passion please check back for new blogs concerning web development and industry trends.
-                    </p><p>Portfolio: <a href="https://jasondroste.com">JasonDroste.com</a></p>-->
+                        Table Top RPGs are some of the best ways to keep in touch with friends, express yourself, and explore unlimited creative thought. As my games progress, I will make sure to keep you up to date with the adventure!
+                    </p>
+                    <br>
+                    <h4>Gaming</h4>
+                    <p class="text-black-50 mb-0">
+                       Game reviews! My console of choice is the PS5. My game type of choice is action adventure. So if you are on the fence about getting a game, let me help you decide!
+                    </p>
                 </div>
             </div>
         </div>
