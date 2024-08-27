@@ -46,6 +46,7 @@ deploy:
       - php artisan storage:link
       - php artisan optimize
       - php artisan up
+      - npm run build
 
 # uncomment the following lines to configure cron jobs
 #runtime:
