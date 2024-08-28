@@ -12,14 +12,6 @@
                 <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                 <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
                 <li class="nav-item"><a class="nav-link" href="#signup">Contact</a></li>
-                @if (Route::has('login'))
-                @auth
-                    <li class="nav-item"><a class="nav-link" href="{{ url('/dashboard') }}">Dashboard</a></li>
-                @else
-                    <li class="nav-item"><a class="nav-link" href="{{ route('login') }}">Login</a></li>
-                
-                @endauth
-                @endif
             </ul>
         </div>
     </div>
