@@ -11089,6 +11089,7 @@ body {
   max-width: 20rem;
   font-size: 1rem;
 }
+/*
 @media(max-width: 991px){
   .masthead{
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../img/homeBannerImage.png");
@@ -11099,6 +11100,7 @@ body {
   }
 
 }
+  */
 @media (min-width: 768px) {
   .masthead h1, .masthead .h1 {
     font-size: 4rem;
